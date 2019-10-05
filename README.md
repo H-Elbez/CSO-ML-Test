@@ -1,10 +1,25 @@
 # CSO-ML-Test
 This App demonstrates how to use the firebase_ml_vision plugin
 
-<center>
+------
 
-![alt](assets/Icon.png)
-</center>
+<div style="text-align:center">
+<img src="assets/Icon.png" width="250">
+</div>
+
+------
+
+<div style="text-align:center">
+<img src="assets/im1.png" width="250">
+<img src="assets/im2.png" width="250">
+<img src="assets/im4.png" width="250">
+<img src="assets/im5.png" width="250">
+<img src="assets/im6.png" width="250">
+<img src="assets/im7.png" width="250">
+</div>
+
+------
+
 ## Usage
 
 *Important* If using on-device detectors on `iOS`, see the plugin
